@@ -1,0 +1,20 @@
+.custom-header{
+    background-color: #131921;
+}
+.custom-img{
+    height:520px;
+}
+.card img{
+    height:200px;
+}
+footer{
+    background-color: #131921;
+    color:#ffff !important;
+}
+.deals-type{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.deals-type a{
+    color:#4fabd1;
+}
