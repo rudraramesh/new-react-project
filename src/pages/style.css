@@ -1,0 +1,18 @@
+.pro-heading{
+    font-size: 30px;
+    color: crimson;
+    text-align: center;
+
+}
+.content{
+    width:50%;
+}
+.content img{
+    width:250px;
+    width:250px;
+}
+.content .descPara{
+    width:50%;
+    font-size: 3rem;
+    font-family: cursive;
+}

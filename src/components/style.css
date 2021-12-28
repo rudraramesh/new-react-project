@@ -18,3 +18,24 @@ footer{
 .deals-type a{
     color:#4fabd1;
 }
+
+.custom-slide{
+    height:200px;
+}
+.slick-slide{
+    padding:0 10px;
+}
+.slick-list{
+    margin:0 3em;
+}
+.slick-prev{
+    left:1% !important;
+}
+.slick-next{
+    right:1% !important;
+}
+.slick-prev:before,.slick-next:before{
+    color:orangered !important;
+    
+    font-size:35px ;
+}

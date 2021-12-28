@@ -48,7 +48,7 @@ const TrendingProduct = () => {
      </div>
       
     </div>
- 
+    
         </>
     )
 }

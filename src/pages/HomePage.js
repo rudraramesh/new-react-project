@@ -5,6 +5,7 @@ import Carousel from '../components/Carousel'
 import LatestProduct from '../components/LatestProduct'
 import TrendingProduct from '../components/TrendingProduct'
 import Footer from '../components/Footer'
+import Trending from '../components/Trending'
 
 
 
@@ -15,7 +16,9 @@ const HomePage = () => {
             <Carousel/>
             <LatestProduct/>
             <TrendingProduct/>
+            <Trending/>
             <Footer/>
+            
            
         </div>
     )
